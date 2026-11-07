@@ -1,0 +1,169 @@
+{
+    "personal": {
+        "name": "vaishnavi lakkundi",
+        "greeting": "WELCOME TO MY PORTFOLIO",
+        "role": "BCA First Year Student | Aspiring Web Developer",
+        "introduction": "I am a passionate BCA student who loves learning programming, designing websites and exploring new technologies. I enjoy turning creative ideas into useful digital experiences.",
+        "careerGoal": "To become a skilled Full Stack Developer and build innovative web applications.",
+        "profileImage": "https://t4.ftcdn.net/jpg/14/97/23/41/360_F_1497234138_oRtkmFraNNRfm6Cfx6D5YDaej2H4VX2I.jpg",
+        "email": "vaishnavi@example.com",
+        "phone": "+91 9876502210",
+        "course": "Bachelor of Computer Applications (BCA)",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "heading": "Hello! I'm vaishnavi lakkundi",
+        "description": "I am currently pursuing my Bachelor of Computer Applications (BCA) in my first year. I have a strong interest in computer science, web development and programming. I am learning HTML, CSS, JavaScript, Bootstrap, C and C++. My goal is to continuously improve my technical skills, work on real-world projects and build a successful career in the IT industry. I believe in learning through practice, consistency and creativity."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi-filetype-html",
+            "level": 85
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi-filetype-css",
+            "level": 75
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi-filetype-js",
+            "level": 55
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi-bootstrap",
+            "level": 70
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi-code-slash",
+            "level": 65
+        },
+        {
+            "name": "C++",
+            "icon": "bi-braces",
+            "level": 60
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=700",
+            "description": "A responsive personal portfolio website to showcase my introduction, technical skills, education and projects.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "ShopZone E-Commerce",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=700",
+            "description": "A modern online shopping website with product cards, search functionality and a working shopping cart.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "JSON"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=700",
+            "description": "A beginner-friendly student management project designed to organize student records and academic information.",
+            "technologies": [
+                "C",
+                "C++",
+                "Programming"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=700",
+            "description": "A simple calculator application that performs basic arithmetic operations using JavaScript.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "ABC College of Computer Science",
+            "year": "2026 - Present",
+            "semester": "First Semester",
+            "details": "Currently studying computer fundamentals, programming in C, mathematics and computer applications."
+        },
+        {
+            "course": "Higher Secondary Education (12th)",
+            "college": "ABC Senior Secondary School",
+            "year": "2025 - 2026",
+            "semester": "Completed",
+            "details": "Completed higher secondary education with an interest in computer science and technology."
+        },
+        {
+            "course": "Secondary Education (10th)",
+            "college": "ABC Public School",
+            "year": "2023 - 2024",
+            "semester": "Completed",
+            "details": "Completed secondary education with a strong academic foundation."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "link": "https://example.com/"
+        },
+        {
+            "name": "Introduction to C Programming",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "link": "https://example.com/"
+        },
+        {
+            "name": "JavaScript for Beginners",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "link": "https://example.com/"
+        }
+    ],
+
+    "socialLinks": [
+        {
+            "name": "GitHub",
+            "icon": "bi-github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi-linkedin",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi-instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "bi-facebook",
+            "url": "https://www.facebook.com/"
+        }
+    ]
+}
